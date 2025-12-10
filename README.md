@@ -17,7 +17,7 @@ This project sets up a local **Node.js** server using **Express** to serve stati
 **1. Navigate to the server directory:**
 
 ```bash
-cd /browserscore/localserveur/
+cd /browserscore/localserver/
 ```
 
 **2. Install dependencies:**
