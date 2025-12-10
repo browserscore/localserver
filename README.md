@@ -40,6 +40,12 @@ or, if you have a `start` script in `package.json`:
 npm start
 ```
 
+or with **nodemon** to automatically restart the server when files change:
+
+```bash
+npm run dev
+```
+
 The server will start on [http://localhost:3000](http://localhost:3000).
 
 ## Notes
