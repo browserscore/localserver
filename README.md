@@ -6,7 +6,7 @@ This project sets up a local **Node.js** server using **Express** to serve stati
 
 ```
 /browserscore/
-├── localserver            # local serveur
+├── localserver            # local server
 ├── app/                   # Static resources for app
 ├── features/              # Feature-related resources
 └── support/               # Support resources
